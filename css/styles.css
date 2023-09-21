@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.img {
+  max-width: 100%;
+}
+
+.div_img {
+  width: 40%;
+}
